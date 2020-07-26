@@ -1,0 +1,40 @@
+h1{
+background-color:lightblue;
+color:black;
+text-align: center;
+}
+
+.container{
+background-color: #C8C8C8;
+width:1000px;
+margin:auto;
+}
+
+.box-1{
+border-style:groove;
+padding: 25px 50px 50px 50px;
+font-family:arial narrow;
+}
+
+img{
+float:right
+}
+
+
+
+p{
+word-spacing: 3px;
+font-size:18px;
+}
+
+
+h3{
+text-decoration: underline;
+}
+table,th,td{
+border:2px solid black;
+border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+}
